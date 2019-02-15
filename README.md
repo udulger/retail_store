@@ -1,6 +1,4 @@
-==============
- retail-store
-==============
+retail-store
 
 Description:
 
