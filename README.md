@@ -1,4 +1,4 @@
-retail-store
+Retail Store
 
 Description:
 
